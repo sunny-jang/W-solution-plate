@@ -1,0 +1,128 @@
+/* am-sub */
+/*.am-top-header, .am-top-header .navbar-collapse .navbar-nav > li.dropdown .dropdown-menu > li > a:hover {
+	background-color: #7e6ba9;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+	background-color: #876ca4;
+}*/
+.am-top-header .navbar-collapse .navbar-nav > li > a {
+	padding: 0 18px;
+}
+.label-alt3 {
+	background-color: #7a98bf;
+}
+
+.dropdown.nav-title a {
+	font-size: 20px !important;
+	font-weight:bold;
+	padding: 0 30px !important;
+}
+
+.pointer {
+	cursor: pointer;
+}
+.scf-form-buttons {
+	margin:30px;
+}
+div.page-head .top-page-buttons {
+	position: absolute;
+	right: 0px;
+	top: 30px;
+	margin-bottom: 200px;
+	text-align: right;
+	padding: 20px;
+	padding-bottom: 45px;
+	padding-right:35px;
+}
+.form-img-preview {
+	max-height:150px;
+	max-width: 100%;
+}
+div.col-box {
+	padding: 6px;
+}
+div.col-box .title {
+	font-size:18px;
+	font-weight:bold;
+	margin:10px 0px 20px 0px;
+}
+div.col-box-inner {
+	border: 1px solid #ddd;
+	padding:14px;
+}
+
+
+.innerbox-body {
+	border: 2px solid #bddaef;
+	margin: 0px 0px 25px;
+	padding: 35px 15px 5px 15px;
+	position:relative;
+}
+.innerbox-body .right-top {
+	position:absolute;
+	right:5px;
+	top:5px;
+	width:100%;
+	text-align:right;
+	height: 25px;
+}
+.innerbox-body .right-top button {
+	border: none;
+	color: #5d7a9f;
+}
+
+.upload-file-wrapper .file {
+	list-style-type: none;
+	margin-bottom: 6px;
+}
+.upload-file-wrapper .file {
+	padding: 10px;
+	border: 1px solid #eee;
+	position: relative;
+}
+.upload-file-wrapper .file a {
+	color: #8dcadf;
+}
+.upload-file-wrapper .file .btn-remove-file {
+	cursor:pointer;
+	position:absolute;
+	right:0;
+	top:0;
+	font-size: 13px;
+	line-height: 31px;
+	width: 50px;
+	height: 38px;
+}
+.upload-file-wrapper .file .btn-remove-file:active {
+	opacity: 0.7;
+}
+
+.menu.active {
+	background-color:white;
+	font-weight:bold;
+}
+.submenu {
+	font-weight:normal;
+}
+.submenu.active {
+	font-weight:bold;
+	color: blue;
+}
+
+.btn.btn-form {
+	padding: 9px 9px 10px 9px;
+	font-size: 14px;
+	line-height: 1.6333333;
+}
+
+.se2-textarea {
+	visibility: hidden;
+}
+
+.mission-tables td:hover {
+	background-color: #f0f9ff;
+}
+
+tr[click-to-href] {
+	cursor: pointer;
+}
